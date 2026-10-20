@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+InW*
+data/TOMST_data/
+data/RNE_dvv/
+data/InSAR_results/
+
 # Distribution / packaging
 .Python
 build/
