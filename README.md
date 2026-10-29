@@ -76,7 +76,7 @@ Notebook paths are organised by data type, for example:
 
 - `Notebooks/FBG/` for FBG strain, temperature, preprocessing, comparisons,
   and signal analysis.
-- `Notebooks/DAS/` for DAS clustering.
+- `Notebooks/DAS/` for DAS clustering and conversion from strain rate to strain.
 - `Notebooks/InSAR/` for InSAR-to-strain processing.
 
 ## Data and reproducibility
