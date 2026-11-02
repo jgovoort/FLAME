@@ -2,6 +2,8 @@
 
 **F**ibre-optic monitoring of icelandic vo**L**canic hydrothermal **A**ctivity using strain and temperature **ME**asurements.
 
+[![DOI](https://zenodo.org/badge/1355753486.svg)](https://doi.org/10.5281/zenodo.23887221)
+
 FLAME is a research repository for processing and analysing fibre-optic and
 geophysical observations from Icelandic volcanic and hydrothermal environments.
 The project combines Fiber Bragg Grating (FBG), Distributed Acoustic Sensing
